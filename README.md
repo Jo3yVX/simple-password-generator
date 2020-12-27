@@ -1,2 +1,2 @@
-# simple-password-generator
-nah
+# password-generator
+# A secure-password generator created with Python.
